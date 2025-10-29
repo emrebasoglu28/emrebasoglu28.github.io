@@ -1,0 +1,5 @@
+title: "Benim Blogum"
+description: "Bu benim ilk Jekyll blogum"
+baseurl: ""  
+url: "https://emrebasoglu.github.io"  
+theme: minima
